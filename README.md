@@ -23,3 +23,7 @@ When you run node script.js you will see there will lots of links given there yo
 
 Thank you. 
 
+You can simply run npm start into your terminal 
+then your code will run and you'll find some links ,
+so you can simply copy those link and paste those to your browser
+and you'll find that the img in a correct format will be saved
